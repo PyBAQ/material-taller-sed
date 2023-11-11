@@ -1,5 +1,8 @@
 # Material Taller de Programación con Python SED
-Recursos para los ejercicios del taller de Python Básico con la secretaria distrital de educación de Barranquilla
+Recursos para los ejercicios del taller de Python Básico con la secretaria distrital de educación de Barranquilla.
+
+- Diapositivas día 1: https://docs.google.com/presentation/d/1iwpIEOOuuHFYDfMEzYkqc3bkUOSRffE8dnZP8zG-fCk/edit?usp=sharing
+- Diapositivas día 2: (pendiente)
 
 ------------
 
