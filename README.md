@@ -2,6 +2,7 @@
 Recursos para los ejercicios del taller de Python Básico con la secretaria distrital de educación de Barranquilla
 
 ------------
+
 [![alt text][A.1]][A]
 
 Este es el repositorio de archivos semilla de los ejercicios y retos del taller de programación con Python de la comunidad Python Barranquilla.
@@ -9,7 +10,6 @@ Este es el repositorio de archivos semilla de los ejercicios y retos del taller 
 [![alt text][B.1]][B]
 
 Este tealler ha sido posible gracias a la invitación de la Secretaría Distrital de Educación de Barranquilla.
-
 
 ------------
 
