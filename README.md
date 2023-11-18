@@ -2,7 +2,7 @@
 Recursos para los ejercicios del taller de Python Básico con la secretaria distrital de educación de Barranquilla.
 
 - Diapositivas día 1: https://docs.google.com/presentation/d/1iwpIEOOuuHFYDfMEzYkqc3bkUOSRffE8dnZP8zG-fCk/edit?usp=sharing
-- Diapositivas día 2: (pendiente)
+- Diapositivas día 2: https://docs.google.com/presentation/d/1VMi7sb2kT2LQNQ9cqfUlFmxJc1PHPP7llqD8oPUnvNo/edit?usp=sharing
 
 ------------
 
